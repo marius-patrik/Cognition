@@ -4,12 +4,12 @@
   "slug": "marius-patrik/Cognition",
   "sourceBranch": "main",
   "release": {
-    "tag": "v0.291.4",
-    "sha": "4eb98c408eada7edd6366e46897fc54ea6b42ec1",
-    "digest": "94d9c6282fdf2a2d893c0519ca8eac5729f04353d63c11c34b4944d365aeed54"
+    "tag": "v0.291.5",
+    "sha": "d6644d74ae578a73aa2cba988a4f16b6a6e98753",
+    "digest": "bd599d7e9bfd0c6f61655275b2aedcbecacb1a269097200fbbecf319da4384ea"
   },
   "fileHashes": {
-    "repo.dfconfig": "eb38390582c2f3b35aa7b702e46ab72200a291fb92647b4cd4cebbe25c2f2d66",
-    ".github/workflows/darkfactory-control.yml": "97b6dc2c2ac292e18b36271e2fae1326c54d4ed5ab1114590637c21c3f124321"
+    "repo.dfconfig": "e08767b16b732c62e3d6eb30f9034ff422688c7f9f8ecbe1fa07d72613155f93",
+    ".github/workflows/darkfactory-control.yml": "899911f1bb7ef38d03deeb9d368adb760307468c7e455d63354bd2185475efe5"
   }
 }
